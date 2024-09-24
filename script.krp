@@ -1,0 +1,4 @@
+-u https://en.wikipedia.org/wiki/Pakistan
+--output xlsx --output-dir ./
+--extract-images --download-images
+--media-dir ./en.wikipedia.org/media
